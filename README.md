@@ -4,7 +4,7 @@
 <h2 align="center">I prefer techno java (spring boot) and react js.</h2>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamydinyah34&label=Profile%20views&color=0e75b6&style=flat" alt="mamydinyah34" /> </p>
+
 
 - 📫  Contact me at  **mamydinyah34@gmail.com**
 
